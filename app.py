@@ -16,7 +16,7 @@ from multimodal_rug_search import (
 
 st.set_page_config(page_title="Multimodal Rug Search", layout="wide")
 
-st.title("🧩 Multimodal Rug Search & Recommendation System")
+st.title("Multimodal Rug Search & Recommendation System")
 st.caption("Fusion Formula: 0.7 × Image Similarity + 0.3 × Text Similarity")
 
 # ==========================================================
