@@ -1,0 +1,10 @@
+venv/
+*.pdf
+__pycache__/
+.DS_Store
+*.npy
+*.csv
+room*.JPG
+room*.jpeg
+room*.png
+temp_room.jpg
